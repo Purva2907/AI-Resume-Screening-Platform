@@ -30,4 +30,4 @@ streamlit run app.py
 
 ## Live Demo
 
-https://your-app-name.streamlit.app
+https://ai-resume-screening-platform.streamlit.app/
