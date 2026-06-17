@@ -27,7 +27,9 @@ An AI-powered Resume Screening and Candidate Ranking Platform built using Python
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 ## Live Demo
 
-https://ai-resume-screening-platform.streamlit.app/
+🚀 https://ai-resume-screening-platform.streamlit.app/
+
